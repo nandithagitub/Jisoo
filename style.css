@@ -1,0 +1,36 @@
+body{
+   background-image: url("https://w0.peakpx.com/wallpaper/247/450/HD-wallpaper-smile-indie-aesthetic.jpg");
+   background-size: cover;
+}
+
+.heading{
+    width:100%;
+    font-size: 23px;
+    margin:0px;
+    box-shadow: 5px 5px 5px palegreen;
+    font-family: 'Lobster', cursive;
+    line-height: 2;
+}
+
+.note{
+    font-size: 15px;
+    color:white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    font-family: 'Neonderthaw', cursive;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px grey;
+}
